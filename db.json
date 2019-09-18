@@ -1,12 +1,12 @@
 {
   "flavorData" : {
-    "flavorName" : "testAndroidTV",
+    "flavorName" : "newAndroidTV",
     "variantType" : "Prod",
-    "jksName" : "testandroidtv"
+    "jksName" : "newandroidtv"
   },
   "playStoreData" : {
-    "appName" : "Test Android TV App",
-    "applicationId" : "com.release.testandroidtv",
+    "appName" : "New Android TV App",
+    "applicationId" : "com.release.newandroidtv",
     "versionCode" : 1,
     "versionName" : "1.0.0-beta"
   },
