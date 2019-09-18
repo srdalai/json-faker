@@ -1,14 +1,19 @@
-
 {
-  "flavorName" : "testAndroidTV",
-  "applicationId" : "com.release.testandroidtv",
-  "authToken" : "1234567890qwertu",
-  "appName" : "Test Android TV App",
-  "baseUrlStaging" : "https://api.muvi.com/rest/",
-  "baseUrlProd" : "https://api.muvi.com/rest/",
-  "versionCode" : 1,
-  "versionName" : "1.0.0-beta",
-  "primaryColor" : "#c1abcd",
-  "variantType" : "Prod",
-  "jksName" : "testandroidtv"
+  "flavorData" : {
+    "flavorName" : "testAndroidTV",
+    "variantType" : "Prod",
+    "jksName" : "testandroidtv"
+  },
+  "playStoreData" : {
+    "appName" : "Test Android TV App",
+    "applicationId" : "com.release.testandroidtv",
+    "versionCode" : 1,
+    "versionName" : "1.0.0-beta"
+  },
+  "muviData" : {
+    "authToken" : "1234567890qwertu",
+    "baseUrlStaging" : "https://api.muvi.com/rest/",
+    "baseUrlProd" : "https://api.muvi.com/rest/",
+    "primaryColor" : "#c1abcd"
+  }
 }
