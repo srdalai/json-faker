@@ -1,1 +1,14 @@
 
+{
+  "flavorName" : "testAndroidTV",
+  "applicationId" : "com.release.testandroidtv",
+  "authToken" : "1234567890qwertu",
+  "appName" : "Test Android TV App",
+  "baseUrlStaging" : "https://api.muvi.com/rest/",
+  "baseUrlProd" : "https://api.muvi.com/rest/",
+  "versionCode" : 1,
+  "versionName" : "1.0.0-beta",
+  "primaryColor" : "#c1abcd",
+  "variantType" : "Prod",
+  "jksName" : "testandroidtv"
+}
