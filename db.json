@@ -1,19 +1,19 @@
 {
   "flavorData" : {
-    "flavorName" : "newAndroidTV",
+    "flavorName" : "sapphireNonDRMTv",
     "variantType" : "Prod",
-    "jksName" : "newandroidtv"
+    "jksName" : "sapphiretv"
   },
   "playStoreData" : {
-    "appName" : "New Android TV App",
-    "applicationId" : "com.release.newandroidtv",
-    "versionCode" : 1,
-    "versionName" : "1.0.0-beta"
+    "appName" : "Sapphire TV",
+    "applicationId" : "com.release.sapphiretv",
+    "versionCode" : 6,
+    "versionName" : "1.0.5-beta"
   },
   "muviData" : {
-    "authToken" : "1234567890qwertu",
+    "authToken" : "92b9a7907748d038f3277feafcf07506",
     "baseUrlStaging" : "https://api.muvi.com/rest/",
     "baseUrlProd" : "https://api.muvi.com/rest/",
-    "primaryColor" : "#c1abcd"
+    "primaryColor" : "#0cb9f2"
   }
 }
