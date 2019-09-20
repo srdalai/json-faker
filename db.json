@@ -24,6 +24,7 @@
     "splash" : "https://firebasestorage.googleapis.com/v0/b/sdt-messenger.appspot.com/o/splash.png?alt=media&token=21f51812-83e4-4916-ab75-4d4c3e5cc456"
   },
   "otherUrls" : {
+    "ic_launcher" : "https://firebasestorage.googleapis.com/v0/b/sdt-messenger.appspot.com/o/ic_launcher.png?alt=media&token=13e372ea-db21-4e85-b2d0-d4a9cbced61b",
     "jksUrl" : "https://firebasestorage.googleapis.com/v0/b/sdt-messenger.appspot.com/o/sapphiretv.jks?alt=media&token=748f1963-ae5e-4496-9ee8-0c452a7fe8de",
     "google-services" : "https://firebasestorage.googleapis.com/v0/b/sdt-messenger.appspot.com/o/google-services.json?alt=media&token=49d8127a-f724-4231-b8e4-a690c4827f69"
   }
