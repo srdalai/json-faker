@@ -15,5 +15,16 @@
     "baseUrlStaging" : "https://api.muvi.com/rest/",
     "baseUrlProd" : "https://api.muvi.com/rest/",
     "primaryColor" : "#0cb9f2"
+  },
+  "assetUrls" : {
+    "banner" : "https://firebasestorage.googleapis.com/v0/b/sdt-messenger.appspot.com/o/banner.png?alt=media&token=dafd0f1f-aec2-4e58-9ddc-fcac415ac0d3",
+    "background_color" : "https://firebasestorage.googleapis.com/v0/b/sdt-messenger.appspot.com/o/background_color.png?alt=media&token=3cfd761a-e258-4aa2-a7cb-0b3791507c0e",
+    "drawer_logo" : "https://firebasestorage.googleapis.com/v0/b/sdt-messenger.appspot.com/o/drawerlogo.png?alt=media&token=9e407aef-1f53-4cef-869f-124cc88d08f3",
+    "logo" : "https://firebasestorage.googleapis.com/v0/b/sdt-messenger.appspot.com/o/logo.png?alt=media&token=16683ce7-23b5-464c-8695-b31a02296e63",
+    "splash" : "https://firebasestorage.googleapis.com/v0/b/sdt-messenger.appspot.com/o/splash.png?alt=media&token=21f51812-83e4-4916-ab75-4d4c3e5cc456"
+  },
+  "otherUrls" : {
+    "jksUrl" : "https://firebasestorage.googleapis.com/v0/b/sdt-messenger.appspot.com/o/sapphiretv.jks?alt=media&token=748f1963-ae5e-4496-9ee8-0c452a7fe8de",
+    "google-services" : "https://firebasestorage.googleapis.com/v0/b/sdt-messenger.appspot.com/o/google-services.json?alt=media&token=49d8127a-f724-4231-b8e4-a690c4827f69"
   }
 }
