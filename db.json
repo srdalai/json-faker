@@ -1,31 +1,31 @@
 {
-  "flavorData" : {
-    "flavorName" : "sapphireNonDRMTv",
-    "variantType" : "Prod",
-    "jksName" : "sapphiretv"
+  "flavorData": {
+    "flavorName": "satyaranjanTv",
+    "variantType": "Prod",
+    "jksName": "satyaranjantv"
   },
-  "playStoreData" : {
-    "appName" : "Sapphire TV",
-    "applicationId" : "com.release.sapphiretv",
-    "versionCode" : 6,
-    "versionName" : "1.0.5-beta"
+  "playStoreData": {
+    "appName": "Satyaranjan TV",
+    "applicationId": "com.release.satyaranjan",
+    "versionCode": 1,
+    "versionName": "1.0.0-beta"
   },
-  "muviData" : {
-    "authToken" : "92b9a7907748d038f3277feafcf07506",
-    "baseUrlStaging" : "https://api.muvi.com/rest/",
-    "baseUrlProd" : "https://api.muvi.com/rest/",
-    "primaryColor" : "#0cb9f2"
+  "muviData": {
+    "authToken": "a9afc04d69a8d52fc10b448750d70f36",
+    "baseUrlStaging": "https://api.muvi.com/rest/",
+    "baseUrlProd": "https://api.muvi.com/rest/",
+    "primaryColor": "#0cb9f2"
   },
-  "assetUrls" : {
-    "banner" : "https://firebasestorage.googleapis.com/v0/b/sdt-messenger.appspot.com/o/banner.png?alt=media&token=dafd0f1f-aec2-4e58-9ddc-fcac415ac0d3",
-    "background_color" : "https://firebasestorage.googleapis.com/v0/b/sdt-messenger.appspot.com/o/background_color.png?alt=media&token=3cfd761a-e258-4aa2-a7cb-0b3791507c0e",
-    "drawer_logo" : "https://firebasestorage.googleapis.com/v0/b/sdt-messenger.appspot.com/o/drawerlogo.png?alt=media&token=9e407aef-1f53-4cef-869f-124cc88d08f3",
-    "logo" : "https://firebasestorage.googleapis.com/v0/b/sdt-messenger.appspot.com/o/logo.png?alt=media&token=16683ce7-23b5-464c-8695-b31a02296e63",
-    "splash" : "https://firebasestorage.googleapis.com/v0/b/sdt-messenger.appspot.com/o/splash.png?alt=media&token=21f51812-83e4-4916-ab75-4d4c3e5cc456"
+  "assetUrls": {
+    "banner": "https://firebasestorage.googleapis.com/v0/b/sdt-messenger.appspot.com/o/banner.png?alt=media&token=dafd0f1f-aec2-4e58-9ddc-fcac415ac0d3",
+    "background_color": "https://firebasestorage.googleapis.com/v0/b/sdt-messenger.appspot.com/o/background_color.png?alt=media&token=3cfd761a-e258-4aa2-a7cb-0b3791507c0e",
+    "drawer_logo": "https://firebasestorage.googleapis.com/v0/b/sdt-messenger.appspot.com/o/drawerlogo.png?alt=media&token=9e407aef-1f53-4cef-869f-124cc88d08f3",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/sdt-messenger.appspot.com/o/logo.png?alt=media&token=16683ce7-23b5-464c-8695-b31a02296e63",
+    "splash": "https://firebasestorage.googleapis.com/v0/b/sdt-messenger.appspot.com/o/splash.png?alt=media&token=21f51812-83e4-4916-ab75-4d4c3e5cc456"
   },
-  "otherUrls" : {
-    "ic_launcher" : "https://firebasestorage.googleapis.com/v0/b/sdt-messenger.appspot.com/o/ic_launcher.png?alt=media&token=13e372ea-db21-4e85-b2d0-d4a9cbced61b",
-    "jksUrl" : "https://firebasestorage.googleapis.com/v0/b/sdt-messenger.appspot.com/o/sapphiretv.jks?alt=media&token=748f1963-ae5e-4496-9ee8-0c452a7fe8de",
-    "google-services" : "https://firebasestorage.googleapis.com/v0/b/sdt-messenger.appspot.com/o/google-services.json?alt=media&token=49d8127a-f724-4231-b8e4-a690c4827f69"
+  "otherUrls": {
+    "ic_launcher": "https://firebasestorage.googleapis.com/v0/b/sdt-messenger.appspot.com/o/ic_launcher.png?alt=media&token=13e372ea-db21-4e85-b2d0-d4a9cbced61b",
+    "jksUrl": "https://firebasestorage.googleapis.com/v0/b/sdt-messenger.appspot.com/o/sapphiretv.jks?alt=media&token=748f1963-ae5e-4496-9ee8-0c452a7fe8de",
+    "google-services": "https://firebasestorage.googleapis.com/v0/b/sdt-messenger.appspot.com/o/google-services.json?alt=media&token=49d8127a-f724-4231-b8e4-a690c4827f69"
   }
 }
