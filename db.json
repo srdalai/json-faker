@@ -8,10 +8,10 @@
     "appName": "Satyaranjan TV",
     "applicationId": "com.release.sapphiretv",
     "versionCode": 1,
-    "versionName": "1.0.0-tentime"
+    "versionName": "1.0.0-xidig"
   },
   "muviData": {
-    "authToken": "0202997a61fbcf7865d5bdc37360b2de",
+    "authToken": "f728f0bc2a0d09fdbd3f23db7503cedc",
     "baseUrlStaging": "https://api.muvi.com/rest/",
     "baseUrlProd": "https://api.muvi.com/rest/",
     "primaryColor": "#0cb9f2"
