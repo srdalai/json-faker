@@ -11,7 +11,7 @@
     "versionName": "1.0.0-beta"
   },
   "muviData": {
-    "authToken": "23753c8e1a9a7f63592e9894ca2e2eca",
+    "authToken": "0202997a61fbcf7865d5bdc37360b2de",
     "baseUrlStaging": "https://api.muvi.com/rest/",
     "baseUrlProd": "https://api.muvi.com/rest/",
     "primaryColor": "#0cb9f2"
